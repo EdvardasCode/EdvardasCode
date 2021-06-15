@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EdvardasCode
 - 👀 I’m interested in Web Development, App Development
 - 🌱 I’m currently learning Node.js, Express.js
-- 💻 I'm currently enjoy developing using React
-- 💞️ Website i've developed .... https://theliftinghub.com/
+- 💻 I'm enjoying developing using React
+- 💞️ Websites i've developed .... https://theliftinghub.com/
 - 📫 How to reach me -----> edvardas.kozlovas@gmail.com
 
 <!---
