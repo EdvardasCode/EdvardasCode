@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdvardasCode
-- 👀 I’m interested in ... Web Development, App Development
-- 🌱 I’m currently learning ... Node.js, Express.js
-- 💻 I enjoying develop using ... React  
+- 👀 I’m interested in ... Web Development, App Development,AI Engineer
+- 🌱 I’m currently learning ... Machine Learning/AI Engineer
+- 💻 I enjoy developing using ... React, Node.js, Express.js, Next.js, Python
 - 💞️ My most recent work .... https://theliftinghub.com/
 - 📫 How to reach me -----> edvardas.kozlovas@gmail.com
 
